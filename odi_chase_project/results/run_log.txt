@@ -1,0 +1,28 @@
+ARM done 131 rules 7.3
+A_basic              Dummy(majority)  acc=0.389 f1=0.457 auc=0.500 brier=0.264
+A_basic              Dummy(always-win) acc=0.517 f1=0.681 auc=0.500 brier=0.483
+A_basic              LogReg           acc=0.908 f1=0.911 auc=0.962 brier=0.073
+A_basic              NaiveBayes       acc=0.878 f1=0.884 auc=0.956 brier=0.096
+A_basic              DecisionTree     acc=0.857 f1=0.859 auc=0.875 brier=0.126
+A_basic              RandomForest     acc=0.901 f1=0.902 auc=0.946 brier=0.079
+B_basic+momentum     Dummy(majority)  acc=0.389 f1=0.457 auc=0.500 brier=0.264
+B_basic+momentum     Dummy(always-win) acc=0.517 f1=0.681 auc=0.500 brier=0.483
+B_basic+momentum     LogReg           acc=0.900 f1=0.902 auc=0.961 brier=0.076
+B_basic+momentum     NaiveBayes       acc=0.882 f1=0.887 auc=0.949 brier=0.101
+B_basic+momentum     DecisionTree     acc=0.857 f1=0.860 auc=0.879 brier=0.125
+B_basic+momentum     RandomForest     acc=0.898 f1=0.900 auc=0.946 brier=0.081
+C_full(+context)     Dummy(majority)  acc=0.389 f1=0.457 auc=0.500 brier=0.264
+C_full(+context)     Dummy(always-win) acc=0.517 f1=0.681 auc=0.500 brier=0.483
+C_full(+context)     LogReg           acc=0.912 f1=0.913 auc=0.975 brier=0.067
+C_full(+context)     NaiveBayes       acc=0.725 f1=0.711 auc=0.733 brier=0.269
+C_full(+context)     DecisionTree     acc=0.828 f1=0.828 auc=0.811 brier=0.162
+C_full(+context)     RandomForest     acc=0.896 f1=0.897 auc=0.955 brier=0.081
+D_basic+context      Dummy(majority)  acc=0.389 f1=0.457 auc=0.500 brier=0.264
+D_basic+context      Dummy(always-win) acc=0.517 f1=0.681 auc=0.500 brier=0.483
+D_basic+context      LogReg           acc=0.899 f1=0.900 auc=0.971 brier=0.075
+D_basic+context      NaiveBayes       acc=0.713 f1=0.697 auc=0.724 brier=0.279
+D_basic+context      DecisionTree     acc=0.830 f1=0.830 auc=0.819 brier=0.160
+D_basic+context      RandomForest     acc=0.898 f1=0.899 auc=0.954 brier=0.082
+CV done 514.2
+calibration done 693.8
+ALL DONE 760.3

@@ -1,0 +1,9 @@
+,rows
+all chase deliveries in included matches,11568
+terminal (last delivery / target reached / all out / overs done),47
+   last delivery of innings,47
+   target reached,24
+   all out,21
+   overs exhausted,1
+"impossible (required > 6 x balls left), non-terminal",48
+eligible,11473

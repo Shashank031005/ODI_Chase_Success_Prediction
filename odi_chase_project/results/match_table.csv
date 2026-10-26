@@ -1,0 +1,49 @@
+,chaser,defender,i1_runs,i1_wkts,i1_legal,i2_runs,i2_wkts,i2_legal,winner,winner_runs,winner_wickets,match_type,venue,toss_winner,toss_decision,target,balls_limit,chase_win,margin_ok,exceptional,dls_suspect,exclude_reason,included
+1,New Zealand,England,282,9,300,283,1,218,New Zealand,,9.0,Group,Narendra Modi Stadium,New Zealand,field,283,300,1,True,False,False,,True
+2,Netherlands,Pakistan,286,10,293,205,10,246,Pakistan,81.0,,Group,Rajiv Gandhi International Stadium,Netherlands,field,287,300,0,True,False,False,,True
+3,Bangladesh,Afghanistan,156,10,224,158,4,208,Bangladesh,,6.0,Group,Himachal Pradesh Cricket Association Stadium,Bangladesh,field,157,300,1,True,False,False,,True
+4,Sri Lanka,South Africa,428,5,300,326,10,269,South Africa,102.0,,Group,Arun Jaitley Stadium,Sri Lanka,field,429,300,0,True,False,False,,True
+5,India,Australia,199,10,297,201,4,248,India,,6.0,Group,MA Chidambaram Stadium,Australia,bat,200,300,1,True,False,False,,True
+6,Netherlands,New Zealand,322,7,300,223,10,279,New Zealand,99.0,,Group,Rajiv Gandhi International Stadium,Netherlands,field,323,300,0,True,False,False,,True
+7,Bangladesh,England,364,9,300,227,10,290,England,137.0,,Group,Himachal Pradesh Cricket Association Stadium,Bangladesh,field,365,300,0,True,False,False,,True
+8,Pakistan,Sri Lanka,344,9,300,345,4,290,Pakistan,,6.0,Group,Rajiv Gandhi International Stadium,Sri Lanka,bat,345,300,1,True,False,False,,True
+9,India,Afghanistan,272,8,300,273,2,210,India,,8.0,Group,Arun Jaitley Stadium,Afghanistan,bat,273,300,1,True,False,False,,True
+10,Australia,South Africa,311,7,300,177,10,245,South Africa,134.0,,Group,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Australia,field,312,300,0,True,False,False,,True
+11,New Zealand,Bangladesh,245,9,300,248,2,257,New Zealand,,8.0,Group,MA Chidambaram Stadium,New Zealand,field,246,300,1,True,False,False,,True
+12,India,Pakistan,191,10,257,192,3,183,India,,7.0,Group,Narendra Modi Stadium,India,field,192,300,1,True,False,False,,True
+13,England,Afghanistan,284,10,299,215,10,243,Afghanistan,69.0,,Group,Arun Jaitley Stadium,England,field,285,300,0,True,False,False,,True
+14,Australia,Sri Lanka,209,10,261,215,5,212,Australia,,5.0,Group,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Sri Lanka,bat,210,300,1,True,False,False,,True
+15,South Africa,Netherlands,245,8,258,207,10,257,Netherlands,38.0,,Group,Himachal Pradesh Cricket Association Stadium,South Africa,field,246,258,0,True,False,False,,True
+16,Afghanistan,New Zealand,288,6,300,139,10,208,New Zealand,149.0,,Group,MA Chidambaram Stadium,Afghanistan,field,289,300,0,True,False,False,,True
+17,India,Bangladesh,256,8,300,261,3,249,India,,7.0,Group,Maharashtra Cricket Association Stadium,Bangladesh,bat,257,300,1,True,False,False,,True
+18,Pakistan,Australia,367,9,300,305,10,273,Australia,62.0,,Group,M Chinnaswamy Stadium,Pakistan,field,368,300,0,True,False,False,,True
+19,Sri Lanka,Netherlands,262,10,298,263,5,290,Sri Lanka,,5.0,Group,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Netherlands,bat,263,300,1,True,False,False,,True
+20,England,South Africa,399,7,300,170,9,132,South Africa,229.0,,Group,Wankhede Stadium,England,field,400,300,0,True,False,False,,True
+21,India,New Zealand,273,10,300,274,6,288,India,,4.0,Group,Himachal Pradesh Cricket Association Stadium,India,field,274,300,1,True,False,False,,True
+22,Afghanistan,Pakistan,282,7,300,286,2,294,Afghanistan,,8.0,Group,MA Chidambaram Stadium,Pakistan,bat,283,300,1,True,False,False,,True
+23,Bangladesh,South Africa,382,5,300,233,10,280,South Africa,149.0,,Group,Wankhede Stadium,South Africa,bat,383,300,0,True,False,False,,True
+24,Netherlands,Australia,399,8,300,90,10,126,Australia,309.0,,Group,Arun Jaitley Stadium,Australia,bat,400,300,0,True,False,False,,True
+25,Sri Lanka,England,156,10,200,160,2,154,Sri Lanka,,8.0,Group,M Chinnaswamy Stadium,England,bat,157,300,1,True,False,False,,True
+26,South Africa,Pakistan,270,10,280,271,9,284,South Africa,,1.0,Group,MA Chidambaram Stadium,Pakistan,bat,271,300,1,True,False,False,,True
+27,New Zealand,Australia,388,10,296,383,9,300,Australia,5.0,,Group,Himachal Pradesh Cricket Association Stadium,New Zealand,field,389,300,0,True,False,False,,True
+28,Bangladesh,Netherlands,229,10,300,142,10,254,Netherlands,87.0,,Group,Eden Gardens,Netherlands,bat,230,300,0,True,False,False,,True
+29,England,India,229,9,300,129,10,209,India,100.0,,Group,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,England,field,230,300,0,True,False,False,,True
+30,Afghanistan,Sri Lanka,241,10,297,242,3,272,Afghanistan,,7.0,Group,Maharashtra Cricket Association Stadium,Afghanistan,field,242,300,1,True,False,False,,True
+31,Pakistan,Bangladesh,204,10,271,205,3,195,Pakistan,,7.0,Group,Eden Gardens,Bangladesh,bat,205,300,1,True,False,False,,True
+32,New Zealand,South Africa,357,4,300,167,10,213,South Africa,190.0,,Group,Maharashtra Cricket Association Stadium,New Zealand,field,358,300,0,True,False,False,,True
+33,Sri Lanka,India,357,8,300,55,10,118,India,302.0,,Group,Wankhede Stadium,Sri Lanka,field,358,300,0,True,False,False,,True
+34,Afghanistan,Netherlands,179,10,279,181,3,189,Afghanistan,,7.0,Group,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Netherlands,bat,180,300,1,True,False,False,,True
+35,Pakistan,New Zealand,401,6,300,200,1,153,Pakistan,21.0,,Group,M Chinnaswamy Stadium,Pakistan,field,402,300,1,False,False,True,chase won below first-innings total (DLS-type result; revised target not in data),False
+36,England,Australia,286,10,297,253,10,289,Australia,33.0,,Group,Narendra Modi Stadium,England,field,287,300,0,True,False,False,,True
+37,South Africa,India,326,5,300,83,10,163,India,243.0,,Group,Eden Gardens,India,bat,327,300,0,True,False,False,,True
+38,Bangladesh,Sri Lanka,279,10,297,282,7,247,Bangladesh,,3.0,Group,Arun Jaitley Stadium,Bangladesh,field,280,300,1,True,False,False,,True
+39,Australia,Afghanistan,291,5,300,293,7,281,Australia,,3.0,Group,Wankhede Stadium,Afghanistan,bat,292,300,1,True,False,False,,True
+40,Netherlands,England,339,9,300,179,10,224,England,160.0,,Group,Maharashtra Cricket Association Stadium,England,bat,340,300,0,True,False,False,,True
+41,New Zealand,Sri Lanka,171,10,280,172,5,140,New Zealand,,5.0,Group,M Chinnaswamy Stadium,New Zealand,field,172,300,1,True,False,False,,True
+42,South Africa,Afghanistan,244,10,300,247,5,285,South Africa,,5.0,Group,Narendra Modi Stadium,Afghanistan,bat,245,300,1,True,False,False,,True
+43,Australia,Bangladesh,306,8,300,307,2,268,Australia,,8.0,Group,Maharashtra Cricket Association Stadium,Australia,field,307,300,1,True,False,False,,True
+44,Pakistan,England,337,9,300,244,10,261,England,93.0,,Group,Eden Gardens,England,bat,338,300,0,True,False,False,,True
+45,Netherlands,India,410,4,300,250,10,287,India,160.0,,Group,M Chinnaswamy Stadium,India,bat,411,300,0,True,False,False,,True
+46,New Zealand,India,397,4,300,327,10,293,India,70.0,,Semi Final,Wankhede Stadium,India,bat,398,300,0,True,False,False,,True
+47,Australia,South Africa,212,10,298,215,7,284,Australia,,3.0,Semi Final,Eden Gardens,South Africa,bat,213,300,1,True,False,False,,True
+48,Australia,India,240,10,300,241,4,258,Australia,,6.0,Final,Narendra Modi Stadium,Australia,field,241,300,1,True,False,False,,True

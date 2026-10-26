@@ -1,0 +1,10 @@
+# Versions used to produce the reported results (Python 3.12 sandbox)
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+scipy==1.17.1
+matplotlib==3.10.8
+# optional, only for src/spark_pipeline.py (NOT executed when this project was built):
+pyspark
+# optional, only if you want to swap the from-scratch miners for mlxtend (not used for the reported results):
+mlxtend

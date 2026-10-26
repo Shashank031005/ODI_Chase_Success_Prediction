@@ -1,0 +1,6 @@
+{
+ "extras_mismatch_rows": 0,
+ "innings_per_match_ok": true,
+ "wickets_gt10_innings": 0,
+ "rows_ball_not_increasing(float truncation)": 6
+}

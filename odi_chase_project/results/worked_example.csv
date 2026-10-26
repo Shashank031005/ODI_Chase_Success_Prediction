@@ -1,0 +1,9 @@
+match_id,chase,over,score,wickets_remaining,runs_required,balls_remaining,required_rr,runs_last_12_balls,rate_last12,pred_P(chase win),actual_result
+8,Pakistan v Sri Lanka,10,48/2,8,297,240,7.43,11,5.5,0.0,chase won
+8,Pakistan v Sri Lanka,20,110/2,8,235,180,7.83,15,7.5,0.005,chase won
+8,Pakistan v Sri Lanka,30,182/2,8,163,120,8.15,24,12.0,0.039,chase won
+8,Pakistan v Sri Lanka,40,271/3,7,74,60,7.4,11,5.5,0.234,chase won
+8,Pakistan v Sri Lanka,45,314/4,6,31,30,6.2,20,10.0,0.63,chase won
+29,England v India,10,40/4,6,190,240,4.75,7,3.5,0.374,chase lost
+29,England v India,20,68/5,5,162,180,5.4,4,2.0,0.223,chase lost
+29,England v India,30,101/8,2,129,120,6.45,3,1.5,0.049,chase lost

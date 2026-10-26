@@ -1,0 +1,10 @@
+{
+ "n_transactions": 1747,
+ "n_matches": 47,
+ "min_support": 0.05,
+ "min_confidence": 0.6,
+ "min_lift": 1.15,
+ "min_matches": 10,
+ "base_rate_win": 0.5186033199771036,
+ "n_rules": 131
+}
